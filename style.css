@@ -1,0 +1,39 @@
+header{
+  margin-top:2px;
+}
+h1{
+  color:rgb(255, 141, 2);
+  text-align:center;
+  font-size:170%;
+  text-shadow: 2px 5px 15px rgba(0, 0, 0, 0.623);
+  font-family: 'Merienda', serif;
+}
+aside{
+  background-color: rgba(90, 90, 92, 0.411);
+  border:25px solid transparent;
+  border-radius:50px;
+  border-image: url("https://longfordpc.com/images/weddings-free-clipart-wedding-word-9.png") 20% round;
+}
+h2{
+  color:#CD853F;
+  font-size:20px;
+  font-family: 'Courgette', cursive;
+}
+h3{
+  color:sienna;
+  text-align:center;
+  font-size:1em;
+}
+body{
+  background-color: rgb(219, 219, 219);
+  text-align:center;
+  max-width:650px;
+  font-family: 'Pragati Narrow', cursive;
+  color:rgb(73, 68, 95);
+  letter-spacing: 1px;
+  padding-left:27em;
+}
+footer{
+  border:35px solid transparent;
+  border-image: url("http://www.fontcraft.com/scriptorium/images/borders/celtic2.gif") 30% round;
+}
